@@ -1,3 +1,3 @@
 # gotest
 go littel demo
-test
+`test`
